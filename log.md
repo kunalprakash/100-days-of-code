@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 2: January 9, 2018
+
+**Today's Progress:** Completed till half of jQuery in FreeCodeCamp
+
+**Thoughts:** I should try to do it before 6 pm so that I can log it better.
+
+
 ### Day 1: January 8, 2018
 
 **Today's Progress:** Finished CSS and HTML part in Freecodecamp. Moved to jQuery. 
