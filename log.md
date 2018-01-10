@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 3: January 10, 2018
+
+**Today's Progress:** Finished jQuery on FreeCodeCamp. Now, moving to first project- Tribute Page
+
+**Thoughts:** Deciding on a person for Tribute is harder than I thought.
+
+
 ### Day 2: January 9, 2018
 
 **Today's Progress:** Completed till half of jQuery in FreeCodeCamp
