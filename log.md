@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 4: January 11, 2018
+
+**Today's Progress:** Almost Zilch. Will try to redeem myself by learning some JS on the side. Did decide on the Tribute Website topic.
+
+**Thoughts:** I should focus on insane productivity till 12 in the afternoon. After that, it's mostly nada for me.
+
+
 ### Day 3: January 10, 2018
 
 **Today's Progress:** Finished jQuery on FreeCodeCamp. Now, moving to first project- Tribute Page
