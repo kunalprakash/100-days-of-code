@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 5: January 12, 2018
+
+**Today's Progress:** No work today. Bad day.
+
+**Thoughts:** This is bad. As soon as the learning shifted to project, I have slacked. 
+
+
 ### Day 4: January 11, 2018
 
 **Today's Progress:** Almost Zilch. Will try to redeem myself by learning some JS on the side. Did decide on the Tribute Website topic.
