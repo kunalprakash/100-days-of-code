@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 6: January 13, 2018
+
+**Today's Progress:** The page is getting built. I should have it ready by tomorrow.
+
+**Thoughts:** Realised how easy it is to forget by skipping one day. Had to search even the basic HTML syntax. 
+
+
 ### Day 5: January 12, 2018
 
 **Today's Progress:** No work today. Bad day.
