@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 7: January 14, 2018
+
+**Today's Progress:** Tribute page finished. On to next project.
+
+**Thoughts:** I narrowed down the work from a carousel to a single image which reduced the work. Will try carousel later.
+
+
 ### Day 6: January 13, 2018
 
 **Today's Progress:** The page is getting built. I should have it ready by tomorrow.
