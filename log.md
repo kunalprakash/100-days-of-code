@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 8: January 15, 2018
+
+**Today's Progress:** Another slow day. Focused more on learning than doing. Learnt about carousel and a few JS tricks
+
+**Thoughts:** Doing something before evening helps a lot. Post dinner, it's almost impossible to work.
+
+
 ### Day 7: January 14, 2018
 
 **Today's Progress:** Tribute page finished. On to next project.
