@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 9: January 16, 2018
+
+**Today's Progress:** HTML5 is almost done. Now, I have to learn the JS tricks to move forward.
+
+**Thoughts:** HTML-> what is written; CSS-> how it looks; JS-> how it behaves.
+
+
 ### Day 8: January 15, 2018
 
 **Today's Progress:** Another slow day. Focused more on learning than doing. Learnt about carousel and a few JS tricks
