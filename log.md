@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 10: January 17, 2018
+
+**Today's Progress:** Zero work done. I was too exhausted from work to do anything.
+
+**Thoughts:** Blank
+
+
 ### Day 9: January 16, 2018
 
 **Today's Progress:** HTML5 is almost done. Now, I have to learn the JS tricks to move forward.
