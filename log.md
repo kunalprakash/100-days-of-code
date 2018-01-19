@@ -2,6 +2,13 @@
 
 ### Day 10: January 17, 2018
 
+**Today's Progress:** Finished JS course on Sololearn.
+
+**Thoughts:** Really avoiding the project of FreeCodeCamp like the plague.
+
+
+### Day 10: January 17, 2018
+
 **Today's Progress:** Zero work done. I was too exhausted from work to do anything.
 
 **Thoughts:** Blank
