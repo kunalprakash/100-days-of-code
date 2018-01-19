@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 10: January 18, 2018
+### Day 11: January 18, 2018
 
 **Today's Progress:** Finished JS course on Sololearn.
 
