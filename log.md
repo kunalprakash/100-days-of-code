@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 13: January 20, 2018
+
+**Today's Progress:** Found a great many free books on programming - http://books.goalkicker.com/. Read a bit on JS one.
+
+**Thoughts:** Really avoiding the project of FreeCodeCamp like the plague.
+
+
+### Day 12: January 19, 2018
+
+**Today's Progress:** Learnt about DOM (Document Object Model)
+
+**Thoughts:** Do it first or forget about it getting done.
+
+
 ### Day 11: January 18, 2018
 
 **Today's Progress:** Finished JS course on Sololearn.
