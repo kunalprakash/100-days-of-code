@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 14: January 21, 2018
+
+**Today's Progress:** Started the freecodecamp project.
+
+**Thoughts:** An hour a day really is building up. Compound Interest at work here!!
+
+
 ### Day 13: January 20, 2018
 
 **Today's Progress:** Found a great many free books on programming - http://books.goalkicker.com/. Read a bit on JS one.
