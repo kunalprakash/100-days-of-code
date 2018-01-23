@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 15: January 22, 2018
+
+**Today's Progress:** Some more reading on JS
+
+**Thoughts:** Time to block time of the day for this work. Adhoc timing is not working.
+
+
 ### Day 14: January 21, 2018
 
 **Today's Progress:** Started the freecodecamp project.
